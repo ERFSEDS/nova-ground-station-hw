@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ATTINY45-20PU)(type Legacy)(uri ${KIPRJMOD}/symbol/ATTINY45-20PU.lib)(options "")(descr ""))
+  (lib (name 1-1734028-1)(type Legacy)(uri ${KIPRJMOD}/symbol/1-1734028-1.lib)(options "")(descr ""))
+)
