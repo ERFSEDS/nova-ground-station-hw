@@ -108,7 +108,7 @@ U 1 1 61963DA1
 P 4775 3500
 F 0 "D1" V 4875 3500 50  0000 R CNN
 F 1 "3.3V" V 4650 3725 50  0001 R CNN
-F 2 "Diode_SMD:D_SOD-123F" H 4775 3500 50  0001 C CNN
+F 2 ".pretty:SODFL3617X108N" H 4775 3500 50  0001 C CNN
 F 3 "~" H 4775 3500 50  0001 C CNN
 	1    4775 3500
 	0    -1   -1   0   
@@ -119,7 +119,7 @@ U 1 1 6196901B
 P 4925 3500
 F 0 "D2" V 5025 3500 50  0000 R CNN
 F 1 "3.3V" V 4800 3725 50  0001 R CNN
-F 2 "Diode_SMD:D_SOD-123F" H 4925 3500 50  0001 C CNN
+F 2 ".pretty:SODFL3617X108N" H 4925 3500 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/BZT52HC2V4WF%20-%20BZT52HC47WF.pdf" H 4925 3500 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/diodes-incorporated/BZT52HC3V3WF-7/6024043?utm_adgroup=Essen%20Deinki&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_DK%2BSupplier_Other&utm_term=&utm_content=Essen%20Deinki&gclid=Cj0KCQiAys2MBhDOARIsAFf1D1fY8QaOH-UC3ylehj8pIjgXvYSourkuZEgxQvXDJLga8Z0M38M9_KQaAhyYEALw_wcB" V 4925 3500 50  0001 C CNN "Order Link"
 	1    4925 3500
@@ -246,7 +246,7 @@ U 1 1 6197C4B3
 P 8475 3675
 F 0 "JP1" H 8450 3600 50  0000 C CNN
 F 1 "SolderJumper_2_Open" H 8475 3541 50  0001 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 8475 3675 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm" H 8475 3675 50  0001 C CNN
 F 3 "Solder if need to close the circuit" H 8475 3675 50  0001 C CNN
 	1    8475 3675
 	-1   0    0    1   
